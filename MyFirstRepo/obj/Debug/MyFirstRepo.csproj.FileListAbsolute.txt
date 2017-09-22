@@ -1,0 +1,9 @@
+D:\SourceTree-Github\MyFirstRepo\MyFirstRepo\bin\Debug\MyFirstRepo.exe.config
+D:\SourceTree-Github\MyFirstRepo\MyFirstRepo\bin\Debug\MyFirstRepo.exe
+D:\SourceTree-Github\MyFirstRepo\MyFirstRepo\bin\Debug\MyFirstRepo.pdb
+D:\SourceTree-Github\MyFirstRepo\MyFirstRepo\obj\Debug\MyFirstRepo.csprojResolveAssemblyReference.cache
+D:\SourceTree-Github\MyFirstRepo\MyFirstRepo\obj\Debug\MyFirstRepo.MyFirstRepo.resources
+D:\SourceTree-Github\MyFirstRepo\MyFirstRepo\obj\Debug\MyFirstRepo.Properties.Resources.resources
+D:\SourceTree-Github\MyFirstRepo\MyFirstRepo\obj\Debug\MyFirstRepo.csproj.GenerateResource.Cache
+D:\SourceTree-Github\MyFirstRepo\MyFirstRepo\obj\Debug\MyFirstRepo.exe
+D:\SourceTree-Github\MyFirstRepo\MyFirstRepo\obj\Debug\MyFirstRepo.pdb
